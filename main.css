@@ -1,0 +1,42 @@
+.body {
+	background-color:rgba(100,150,150,0.5);
+}
+
+.profile-container {
+	background-color:white;
+	border-radius:5px;
+	border:1px solid black;
+	width:75%;
+	margin: 0 auto;
+
+}
+
+.profile-header {
+	height:100px;
+
+}
+
+.profile-content {
+
+}
+
+.profile-photo {
+	margin:10px;
+	width:100px;
+	display:inline-block;
+	border: 1px solid black;
+}
+
+.profile-name {
+	margin:10px;
+	display:inline-block;
+	vertical-align:top;
+}
+
+.profile-para {
+	display:inline;
+}
+
+.textbox {
+	overflow:hidden;
+}
